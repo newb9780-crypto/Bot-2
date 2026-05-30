@@ -7,9 +7,9 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "",
+    "repository": "https://github.com/mj5000500-svg/Botfires",
     "success_url": "",
-    "stack": "container",
+    "stack": "heroku-26",
     "env": {
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
